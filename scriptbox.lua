@@ -1,6 +1,6 @@
 local Games = {
-  [2753915549] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Greenville
-  [4442272183] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua" -- Fisch
+  [891852901] = "https://raw.githubusercontent.com/ParadiseCommunity/ParadiseScriptBox/refs/heads/main/scripts/greenville.lua", -- Greenville
+  [18722757961] = "https://raw.githubusercontent.com/ParadiseCommunity/ParadiseScriptBox/refs/heads/main/scripts/ragblood.lua" -- Fisch
 }
 
 return Games
