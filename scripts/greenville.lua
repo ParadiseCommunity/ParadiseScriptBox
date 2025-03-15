@@ -47,7 +47,7 @@ local Checkkey = Tabs.KeySys:AddButton({
         if response == trueData then
            print("Key is valid")
            
-loadstring(game:HttpGet(('https://pastebin.com/raw/srv0jQGX'),true))()
+loadstring(game:HttpGet(('https://pastebin.com/raw/7UZYtnr4'),true))()
 
         else
            print("Key is invalid")
